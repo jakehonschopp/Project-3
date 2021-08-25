@@ -1,0 +1,47 @@
+
+
+
+.navbar {
+  padding: 0 4% 0 4%;
+
+}
+
+.main-section {
+  background-color: gray;
+  padding: 2% 8% 0 8%;
+}
+
+
+.left-side {
+  background-color: white;
+  padding:  2% 0 0 2%;
+  
+}
+.date {
+  font-size:  12px;
+}
+
+.right-side {
+  padding: 0 0 0 1%;
+}
+
+.big-lamar-pic {
+  padding: 0 0% 4% 0;
+
+}
+
+.three-pics-section {
+  border: 10px solid white;
+  background-color:  white;
+}
+
+.footballs {
+  height: 20%;
+  width: 100%;
+  padding: 2% 4% 2% 4%;
+}
+
+@media only screen and (max-width: 1024px) {
+  .right-side {
+    padding: 0 10% 0 10%;
+ }
